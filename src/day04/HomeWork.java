@@ -11,7 +11,7 @@ public class HomeWork {
 					} else if (3 < j - i) {
 						System.out.println("");
 					} else {
-						System.out.println("*");
+						System.out.print("*");
 					}
 				} else {
 					if (i - j > 3) {
@@ -19,7 +19,7 @@ public class HomeWork {
 					} else if (i + j > 9) {
 						System.out.println("");
 					} else {
-						System.out.println("*");
+						System.out.print("*");
 					}
 				}
 			}
