@@ -12,12 +12,19 @@ public class HomeWork2 {
 			if(i<7) {
 				for(int j = 0; j < i+1; j++) {
 					if(i%2 <1) {
-					System.out.print(array[i-j][j]+"");
+					System.out.print(array[i-j][j]+" ");
 			}else{
-				System.out.print(array[j][i-j]+"");
+				System.out.print(array[j][i-j]+" ");
 		}
 				}
 	}else {
+		for(int j=0;j <13 - i; j++) {
+			if(i%2< 1 ) {
+				System.out.print(array[6-j][i+j-6]+" ");
+			}else {
+				System.out.print(array[i+j-6][6-j]+" ");
+			}
+		}
 	}
 	System.out.println();
 		}
