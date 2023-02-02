@@ -44,6 +44,9 @@ public class MainClass01 {
 			Card card2 = new Card();
 			Card card3 = new Card();
 			
+			
+			System.out.println(new Card().type);
+			
 			card1.type ="Diamond";
 			card2.type ="Heart";
 			System.out.println(card1.type);
