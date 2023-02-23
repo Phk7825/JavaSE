@@ -14,4 +14,36 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/day11/mypac/DateUtils.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/DateUtils.java</locationURI>
+		</link>
+		<link>
+			<name>src/day11/util/MainClass07.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/MainClass07.class</locationURI>
+		</link>
+		<link>
+			<name>src/day11/util/MainClass07.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/MainClass07.java</locationURI>
+		</link>
+		<link>
+			<name>src/day11/util/MainClass08.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/MainClass08.java</locationURI>
+		</link>
+		<link>
+			<name>src/day11/util/MainClass09.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/MainClass09.class</locationURI>
+		</link>
+		<link>
+			<name>src/day11/util/MainClass09.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/MainClass09.java</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
