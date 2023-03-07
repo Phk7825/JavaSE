@@ -1,0 +1,30 @@
+오라클 데이터베이스에서 사용 가능한 데이터 타입은 다음과 같습니다.
+
+문자형 데이터 타입
+CHAR(n)
+VARCHAR2(n)
+NCHAR(n)
+NVARCHAR2(n)
+CLOB
+NCLOB
+숫자형 데이터 타입
+NUMBER(p,s)
+BINARY_FLOAT
+BINARY_DOUBLE
+날짜 및 시간형 데이터 타입
+DATE
+TIMESTAMP [(fractional_seconds_precision)]
+이진 데이터 타입
+BLOB
+RAW(n)
+BOOLEAN 데이터 타입
+BOOLEAN
+기타 데이터 타입
+INTERVAL YEAR TO MONTH
+INTERVAL DAY TO SECOND
+각 데이터 타입은 특정 용도에 따라 적절한 선택이 필요합니다. 
+예를 들어, 문자열 데이터를 저장하기 위해서는 CHAR 또는 VARCHAR2를 
+선택할 수 있습니다. 숫자 데이터의 경우 NUMBER 데이터 타입을 사용하며, 
+날짜와 시간 데이터의 경우 DATE 또는 TIMESTAMP 데이터 타입을 사용합니다. 
+이진 데이터의 경우 BLOB 또는 RAW 데이터 타입을 사용할 수 있습니다. 
+이에 따라 데이터 타입을 적절하게 선택하여 데이터베이스를 설계하는 것이 중요합니다.
